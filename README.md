@@ -1,1 +1,13 @@
-# methodology-in-DH
+# Methodology in Digital Humanities: The Good and the Ugly
+
+![Project Header Image](http://i0.wp.com/3dfashionshow.org/blog/wp-content/uploads/2016/02/dah_wordcloud.png)
+
+## Abstract
+From an overview of what we know about the Digital Humanities, we know that there is a possibility of collaboration between people in different focuses of studies and public impact. Theories and essays derived from the scholarly activiry within the field provided great outlooks and findings, but there is also a chance of weaknesses as well. In this project, my group and I aimed to look at the pros and cons towards the methodologyy in Digital Humanities, focusing on the way we perceive and manipulate data. We focused on the readings of Owens, Clement, and Grimmer for our research.
+
+Throughout our research, we found the different ways of manipulating (Owens). You can manipulate data to attract a certain audience, to focus on a whole different perspective entirely, and to become a whole different thing entirely based on the experiences and thoughts of the user. We also saw different ways that the methodology has weakened the validity of a statement, like Flanders self-study essay (Clement). From the examples, we believe that we cannot always rely on manipulated data to prove or disprove a study. From then on, we wanted to find improvements. We concluded on three different things we can do when doing research: including more data on top of the large data we already have, including more people in our research, especially when focused on social theories, to strengthen the experiment/study, and to take advantage of computational ways to handle data, quantitative or qualitative.
+
+In conclusion, we wanted to acknowledge that concrete steps towards possible fixes won't fix/improve things overnight, but we believe that it is a start towards more concrete, accurate data and research.
+
+## Overal Experience
+The readings were incredible, for they had so much information to grasp. It definitely helped strengthen my understanding of what the Digital Humanities is. Data Arts and Humanities is actually my domain emphasis for my major, so I was really excited to open up and learn how code and humanities come together. My group member were lovely too, but I wish that they helped a lot more for the project, seeing that I pretty much handled everything from the research, the proposal, and the presentation. One person created the group chat, another helped point towards a topic that we ended up scrapping, but I ended up finishing everything for us. At the time, I didn't mind it, since I really cared about my groupmates passing, but I do owe it to myself to acknowledge the shortcomings. In the end, they were still very appreciative. Overall, I still had a great time doing this project.
